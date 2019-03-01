@@ -1,0 +1,8 @@
+{
+  "name": "dot-env-encryption-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AkyunaAkish/dot-env-encryption-practice.git",
+  "author": "Akyuna Akish <akyunaakish@gmail.com>",
+  "license": "MIT"
+}
