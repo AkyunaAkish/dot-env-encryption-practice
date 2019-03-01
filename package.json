@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/AkyunaAkish/dot-env-encryption-practice.git",
   "author": "Akyuna Akish <akyunaakish@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./read_dotenv.js"
+  }
 }
