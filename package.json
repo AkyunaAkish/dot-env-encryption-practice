@@ -6,6 +6,6 @@
   "author": "Akyuna Akish <akyunaakish@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "node ./read_dotenv.js"
+    "test": "node ./index.js"
   }
 }
