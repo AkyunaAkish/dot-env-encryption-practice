@@ -7,5 +7,9 @@
   "license": "MIT",
   "scripts": {
     "test": "node ./index.js"
+  },
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "secure-env": "^1.0.0"
   }
 }
